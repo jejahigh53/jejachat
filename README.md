@@ -39,7 +39,7 @@ Usare la chat è facilissimo e richiede pochi secondi:
 
 1. Collegati su **[chat.jjplz.party](https://chat.jjplz.party)**.
 2. Inserisci il tuo **Nickname** (come vuoi essere visto dagli altri).
-3. Inserisci la **Password d'accesso** della stanza.
+3. Inserisci la **Password d'accesso** della stanza. **25062**
 4. Inserisci la **Passphrase per la crittografia** *(Condividila previamente con i tuoi interlocutori tramite un canale sicuro)*.
 5. Clicca su **Entra** e inizia a chattare in totale riservatezza!
 
