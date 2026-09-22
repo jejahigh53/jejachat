@@ -1,7 +1,6 @@
 # 🔒 Chat Privata E2EE by JeJa
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-chat.jjplz.party-2e7d32?style=for-the-badge&logo=rocket)](https://chat.jjplz.party)
-[![Security](https://img.shields.io/badge/Security-E2EE_AES--GCM-1a3c34?style=for-the-badge&logo=shield)](https://chat.jjplz.party)
+[![Live](https://img.shields.io/badge/Live_Demo-chat.jjplz.party-2e7d32?style=for-the-badge&logo=rocket)](https://chat.jjplz.party)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
 > **La tua privacy non è un'opzione, è il punto di partenza.**  
